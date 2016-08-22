@@ -1,4 +1,4 @@
 # hello-world
 apenas aprendendo
 
-A programar em c e python, a cozinhar e também correr.
+A programar em C e Python, a cozinhar e também correr.
